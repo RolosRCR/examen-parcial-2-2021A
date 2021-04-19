@@ -1,10 +1,8 @@
 package uaslp.ingenieria.exams.instruments;
 
-import uaslp.ingenieria.exams.Nota;
+import uaslp.ingenieria.exams.Instrument;
 
-public class Piano {
+public class Piano extends Instrument {
 
-    public void presionaTecla(Nota nota){
 
-    }
 }

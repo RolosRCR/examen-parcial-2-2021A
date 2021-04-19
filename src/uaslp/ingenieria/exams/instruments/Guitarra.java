@@ -1,10 +1,7 @@
 package uaslp.ingenieria.exams.instruments;
 
-import uaslp.ingenieria.exams.Nota;
+import uaslp.ingenieria.exams.Instrument;
 
-public class Guitarra {
-    public void tocaCuerda(Nota nota) {
+public class Guitarra extends Instrument {
 
-
-    }
 }
